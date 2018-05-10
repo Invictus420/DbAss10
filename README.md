@@ -12,13 +12,11 @@ I wrote the logical data model with as little redudancy as possible, with 8 tabl
 
 It can be seen visually as: 
 
-![data_sketch](https://github.com/Thug-Lyfe/database_ass_10/blob/master/data2.jpg "logical data model sketch")
-
-Or more aesthetically pleasing xD  
-
-Note: Sorry that it says indicator on the middle one, it should be value.
-
 ![data_final](https://github.com/Thug-Lyfe/database_ass_10/blob/master/data1.jpg "logical data model")
+
+
+Note: It says indicator on the middle one, it should be value.
+
 
 The tables were created as such:
 
